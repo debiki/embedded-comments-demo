@@ -421,3 +421,26 @@ Small Device Styles
   }
 
 }
+
+/*******************************************************************************
+KajMagnus' changes
+*******************************************************************************/
+
+#main_content h3 {
+  margin-top: 1.5em;
+}
+
+ol {
+  list-style: decimal;
+}
+
+ul, ol {
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  margin-left: 2.9em;
+  margin-bottom: 0.6em;
+}
+
